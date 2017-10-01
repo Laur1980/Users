@@ -4,7 +4,7 @@ const User =require('../src/user');
 describe('Create records', () => {
     
     it('asserts 1+1', () => {
-       assert(1+1 === 2); 
+       assert(1+1 === 3); 
     });
     
     it('it saves a user',(done) =>{
